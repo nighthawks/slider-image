@@ -1,6 +1,5 @@
 {
     "name": "nighthawks/slider-image",
-    "type": "wordpress-plugin",
     "description": "Slider Huge-IT wordpress plugin",
     "license": "MIT",
     "authors": [
@@ -9,6 +8,9 @@
             "homepage": "https://github.com/Huge-IT"
         }
     ],
+    "dist": {		     "url":"https://github.com/nighthawks/slider-image.git",
+    "type": "wordpress-plugin"
+    },
     "require": {
         "php": ">=5.4.0",
     }
